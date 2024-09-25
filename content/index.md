@@ -1,10 +1,9 @@
----
-title: COFFEE'S BLOG
----
+
+# ==**COFFEE'S BLOG**==
 
 **A repository-cum-blog of what little I've learnt and noted. <3**
 
-# *Stuff you'll find here :)*
+# *A list of all the stuff you'll find here :)*
 
 ****
 ****
@@ -15,7 +14,7 @@ title: COFFEE'S BLOG
 [[Pyramid of Pain]]
 
 ****
-## Portswigger Notes
+## PortSwigger  Notes
 
 ### *Apprentice Labs:*
 
@@ -37,13 +36,22 @@ title: COFFEE'S BLOG
 [[Path Traversal]]
 
 ****
+## Azure Fundamentals (AZ-900) Notes
 
+[[1. Cloud Concepts]]
+[[2. Evolution of Cloud Computing]]
+[[3. Global Infrastructure]]
+[[4. Following Along]]
+[[5. Azure Computing Services]]
+[[6. Azure App Services]]
+[[7. Azure Container Instances]]
+
+****
 ## Security+ Notes
 
 Indexing in progress :)
 
 ****
-
 ## CCNA Notes 
 
 Indexing in progress :)
