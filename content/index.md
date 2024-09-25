@@ -1,19 +1,51 @@
 ---
-title: coffee's blog
+title: COFFEE'S BLOG
 ---
-> Coding, Cybersec, Philosophy
 
+**A repository-cum-blog of what little I've learnt and noted. <3**
 
-# Contents
+# *Stuff you'll find here :)*
 
-## 1. TryHackMe Path Notes
+****
+****
+## TryHackMe Path Notes
 
- [[Pyramid of Pain]]
+### *SOC Level 1 room notes*
 
-## 2. Portswigger Notes
+[[Pyramid of Pain]]
 
+****
+## Portswigger Notes
 
+### *Apprentice Labs:*
 
-## 3. Security+ Notes
+> An overview of web vuln
 
-## 4. 
+[[2. Access Control]]
+[[3. Authentication Vulnerabilities]]
+[[4. SSRF]]
+[[5. File Upload vulnerabilities]]
+[[6. OS Command Injection]]
+[[7. SQLi]]
+
+### *Practitioner Labs:*
+
+> More detailed then the Apprentice Labs
+
+[[Clickjacking]]
+[[File Upload Vulnerabilities]]
+[[Path Traversal]]
+
+****
+
+## Security+ Notes
+
+Indexing in progress :)
+
+****
+
+## CCNA Notes 
+
+Indexing in progress :)
+
+****
