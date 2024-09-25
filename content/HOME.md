@@ -1,5 +1,5 @@
 
-# ==**COFFEE'S BLOG**==
+# **COFFEE'S BLOG**
 
 **A repository-cum-blog of what little I've learnt and noted. <3**
 
