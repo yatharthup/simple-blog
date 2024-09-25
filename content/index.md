@@ -1,9 +1,12 @@
+---
+title: HOME
+---
 
 # **COFFEE'S BLOG**
 
 **A repository-cum-blog of what little I've learnt and noted. <3**
 
-# *A list of all the stuff you'll find here :)*
+# *Content*
 
 ****
 ****
